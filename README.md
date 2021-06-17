@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-` "How far are we allowed to go. To fix something that's broken."` quoted from: [morius](https://youtu.be/jLMBLuGJTsA)
+` "How far are we allowed to go. To fix something that's broken."` quoted from: [morbius](https://youtu.be/jLMBLuGJTsA)
 
 
 **Some skills I developed over the last few years:**
