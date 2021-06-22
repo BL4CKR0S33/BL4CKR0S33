@@ -1,3 +1,7 @@
+## TRIGGER ALERT: 
+    this is the most boring README ever existed 
+
+
 ### Hi there 👋
 
 ` "How far are we allowed to go. To fix something that's broken."` quoted from: [morbius](https://youtu.be/jLMBLuGJTsA)
