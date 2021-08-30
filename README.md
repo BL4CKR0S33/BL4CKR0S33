@@ -12,6 +12,7 @@
   - Python
   - JavaScript
   - Php
+  - Bash
   - Linux
   - Server management
   - Electronics
