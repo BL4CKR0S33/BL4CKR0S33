@@ -37,7 +37,7 @@
           ## overview
           ![image](https://user-images.githubusercontent.com/33515363/122456690-2233a080-cfae-11eb-9c19-a4aa89e6e8bf.png)
 
-   This is not how they will look it's just a demo and functionality demonstaration.
+   This is not how they will look it's just a demo and functionality demonstration.
    
 with love ❤️ BL4CKR0S33   
 ✌️ Have a nice day 👋 
